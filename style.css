@@ -1,0 +1,179 @@
+.c-site-header {
+  text-align: center;
+  font-weight: bold;
+  font-weight: bold;
+}
+
+.c-site-footer {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: 18px;
+  margin: 20px 0px;
+}
+
+.frame-olive {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  width: 950px; 
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background: #aa8f00;
+}
+
+.frame-grey {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  width: 950px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background: #555555;
+}
+
+.frame-green {
+  text-align: justify;
+  width: 950px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #00aa8f;
+}
+
+img {
+  width: 400px;
+  margin: 20px 30px;
+  padding: 0rem;
+}
+
+head,
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #FFFFFF;
+  background-image: linear-gradient(
+      100deg,
+      rgba(10, 30, 120, 0.8),
+      rgba(100, 60, 25, 0.8)
+    ),
+    url(https://images.pond5.com/computer-coding-background-footage-090890180_prevstill.jpeg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 45px;
+  color: #FFFFFF;
+  margin: 80px 50px;
+  line-height: 20px;
+}
+
+h2 {
+  font-size: 90px;
+  color: #ffd700;
+  line-height: 20px;
+  margin: 50px;
+} 
+
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 0px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 0px;
+  color: #FFFFFF;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 0px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+P {
+  font-size: 20px;
+  padding: 1rem;
+  line-height: 40px;
+  margin: 80px 50px;
+}
+
+iframe {
+ text-align: center;
+ border: 0px;
+ width: 600px;
+ height: 360px;
+ margin: 30px 50px;
+}
+
+footer {
+  text-align: center;
+  line-height: 35px;
+  padding: 0px;
+  width: 700px;
+  margin: 10px 25px;
+}
+
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
+comment-box {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: monospace;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    background-color: field;
+    column-count: initial !important;
+    margin: 0em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding: 2px;
+}
